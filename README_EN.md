@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # CRT
 Library with a set of functions for CRT correction of LEDs
 - Table CRT 8 bit (heavy, fast and beautiful)
