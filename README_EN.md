@@ -81,7 +81,7 @@ void softPWM(byte pin, byte val) {
 
 <a id="versions"></a>
 ## Versions
--v1.0
+- v1.0
 
 <a id="feedback"></a>
 ## Bugs and feedback
