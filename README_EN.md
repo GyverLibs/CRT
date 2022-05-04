@@ -34,7 +34,7 @@ Compatible with all Arduino platforms (using Arduino functions)
 ## Initialization
 Not
 
-<aid="usage"></a>
+<a id="usage"></a>
 ## Usage
 ```cpp
 uint8_t CRT8_table(uint8_t val); // 8 bit CRT from table
