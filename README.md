@@ -1,6 +1,5 @@
 [![latest](https://img.shields.io/github/v/release/GyverLibs/CRT.svg?color=brightgreen)](https://github.com/GyverLibs/CRT/releases/latest/download/CRT.zip)
 [![PIO](https://badges.registry.platformio.org/packages/gyverlibs/library/CRT.svg)](https://registry.platformio.org/libraries/gyverlibs/CRT)
-[![arduino-library](https://www.ardu-badge.com/badge/CRT.svg?)](https://www.ardu-badge.com/CRT)
 [![PIO](https://badges.registry.platformio.org/packages/gyverlibs/library/CRT.svg)](https://registry.platformio.org/libraries/gyverlibs/CRT)
 [![arduino-library](https://www.ardu-badge.com/badge/CRT.svg?)](https://www.ardu-badge.com/CRT)
 [![Foo](https://img.shields.io/badge/Website-AlexGyver.ru-blue.svg?style=flat-square)](https://alexgyver.ru/)
